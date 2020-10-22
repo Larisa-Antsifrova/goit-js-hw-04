@@ -1,6 +1,7 @@
 console.log(
   "Task 2 ------------------------------------------------------------"
 );
+
 const isUniq = (element, index, arr) => arr.indexOf(element) === index;
 
 const isEven = (element) => element % 2 === 0;
